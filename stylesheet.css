@@ -1,0 +1,190 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+header, section, hgroup{
+	display: block;
+}
+
+body{
+	background-color: #ffffff;
+	font-family: Arial;
+	text-align: center;
+}
+
+.wrapper{
+	border: 1px solid black;
+	width: 1000px;
+	margin: 50px auto;
+	text-align: left;
+}
+
+.top_header{
+	padding: 40px;
+}
+
+img.floatRight{
+	display: inline-block;
+	float: right;
+	vertical-align: right;
+}
+
+.new_div{
+	width: 960px;
+	margin: 20px auto;
+	margin-left: 20px;
+	padding-left: 20px;
+	padding-right: 20px; 
+
+}
+/* EDUCATION */
+p.txtyear{
+	display: inline-block;
+	text-indent: 30px;
+}
+p.txtyear1{
+	display: inline-block;
+	text-indent: 30px;
+}
+p.txtyear2{
+	display: inline-block;
+	text-indent: 30px;
+}
+
+p.txtindent1{
+	text-indent: 220px;
+	display: inline-block;
+}
+p.txtindent2{
+	text-indent: 400px;
+}
+p.txtindent3{
+	text-indent: 400px;
+}
+p.txtindent4{
+	text-indent: 400px;
+}
+p.txtindent5{
+	text-indent: 205px;
+	display: inline-block;
+}
+p.txtindent6{
+	text-indent: 400px;
+}
+p.txtindent7{
+	text-indent: 400px;
+}
+p.txtindent8{
+	text-indent: 400px;
+}
+p.txtindent9{
+	text-indent: 191px;
+	display: inline-block;
+}
+p.txtindent10{
+	text-indent: 400px;
+}
+p.txtindent11{
+	text-indent: 400px;
+}
+
+/* CERTIFICATE */
+p.yearcert{
+	display: inline-block;
+	text-indent: 30px;
+}
+p.yearcert1{
+	display: inline-block;
+	text-indent: 30px;
+}
+p.yearcert2{
+	display: inline-block;
+	text-indent: 30px;
+}
+p.yearcert3{
+	display: inline-block;
+	text-indent: 30px;
+}
+p.yearcert4{
+	display: inline-block;
+	text-indent: 30px;
+}
+
+
+p.txtcert1{
+	text-indent: 265px;
+	display: inline-block;
+}
+p.txtcert2{
+	text-indent: 400px;
+}
+p.txtcert3{
+	text-indent: 400px;
+}
+p.txtcert4{
+	text-indent: 260px;
+	display: inline-block;
+}
+p.txtcert5{
+	text-indent: 400px;
+}
+p.txtcert6{
+	text-indent: 400px;
+}
+
+p.txtcert7{
+	text-indent: 250px;
+	display: inline-block;
+}
+p.txtcert8{
+	text-indent: 400px;
+}
+p.txtcert9{
+	text-indent: 400px;
+}
+
+p.txtcert10{
+	text-indent: 250px;
+	display: inline-block;
+}
+p.txtcert11{
+	text-indent: 400px;
+}
+p.txtcert12{
+	text-indent: 400px;
+}
+
+p.txtcert13{
+	text-indent: 250px;
+	display: inline-block;
+}
+p.txtcert14{
+	text-indent: 400px;
+}
+p.txtcert15{
+	text-indent: 400px;
+}
+
+/* WORK EXPERIENCE */
+
+p.txtworkexp{
+	display: inline-block;
+	text-indent: 30px;
+}
+p.txtworkexp1{
+	display: inline-block;
+	text-indent: 280px;
+}
+p.txtworkexp2{
+	text-indent: 400px;
+}
+p.txtworkexp3{
+	text-indent: 400px;
+}
+
+/* Tech Skills and Personal Background*/
+
+ul li{
+	margin: 5px;
+}
